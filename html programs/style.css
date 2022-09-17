@@ -1,0 +1,45 @@
+*{
+	box-sizing: border-box;
+}
+.header{
+	background-color: red;
+	width: 100%;
+	text-align: center;
+	font-size: 50px;
+}
+.navigation{
+	font-size: 30px;
+	width: 25%;
+	text-align: center;
+	padding-bottom: 3px;
+	float: left;
+	background-color: yellow;
+}
+.navigation div{
+	border: 3px solid;
+	background-color: lightgreen;
+	width: 180px;
+	text-align: center;
+	margin-left: 105px;
+	margin-top: 30px;
+}
+.middle{
+	width: 25%;
+	float: left;
+	margin-left: 180px;
+	background-color: hotpink;
+	padding-right: 40px;
+	padding-left: 30px;
+}
+.stuff{
+	 width: 25%;
+	 float: left;
+	 margin-left: 195px;
+	 background-color: orange;
+	 padding-left: 20px; 
+}
+.footer{
+	width: 100%;
+	background-color: brown;
+	text-align: center;
+}
